@@ -1,0 +1,18 @@
+{
+  "name": "tinyboard",
+  "version": "1.0.0",
+  "description": "A lightweight platform to share images, videos, and messages with others.",
+  "main": "server.js",
+  "scripts": {
+    "dev": "node --watch --env-file=.env server.js",
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "tomoki1604",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "mongoose": "^9.0.0"
+  }
+}
