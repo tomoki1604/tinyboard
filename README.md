@@ -2,8 +2,8 @@
 
 ```bash
 # Clone repository
-git clone https://github.com/tomoki1604/tinyboard.git
-cd tinyboard/
+git clone https://github.com/tomoki1604/textboard.git
+cd textboard/
 
 # Install dependencies
 npm install
